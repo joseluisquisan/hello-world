@@ -16,3 +16,4 @@
 - git checkout
 - git branch -c (nuevo branch)
 - git branch -d (borrar nuevo branch)
+- git fetch : Ir a buscar cambios en el repositorio nuevo
