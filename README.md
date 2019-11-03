@@ -2,20 +2,30 @@
 
 #Apuntes de GIT
 
+#Para Iniciar GIT en el Directorio
 git init
 
-git config --global user.mail "joseluisquisan@gmail.com"
-
+#Para configurar la cuenta
+git config --global user.mail "#########@gmail.com"
 git config --global user.name "Jose Luis"
 
-git status
-
-git add
-git commit -m "new commit"
-
-git log
+#Para colocar el repositorio GitHub
 git remote add origin https://github.com/joseluisquisan/prueba.git
 
+#Para ver el estado de los Cambios
+git status
+
+#Para adicionar nuevos Camnios
+git add
+
+#Para hacer Commit a los nuevos Cambios
+git commit -m "new commit"
+
+#Logs
+git log
+
+#Empujar Cambios a la Nube GitHub
 git push -u origin master
 
+#Ver los Branch
 git branch
