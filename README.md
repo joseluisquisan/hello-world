@@ -2,8 +2,8 @@
 
 ## Commands used
 
-- Para Iniciar GIT en el Directorio
-git init
+- git init : Para Iniciar GIT en el Directorio
+
 
 - Para configurar la cuenta
 git config --global user.mail "example@gmail.com"
