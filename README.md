@@ -2,17 +2,17 @@
 
 ## Commands used
 
-- git init : Para Iniciar GIT en el Directorio
+### Para Iniciar GIT en el Directorio
+- git init : 
 
 
-- Para configurar la cuenta
+### Para configurar la cuenta
 git config --global user.mail "example@gmail.com"
 git config --global user.name "Jose Luis"
 
-- Para colocar el repositorio GitHub
+### Para colocar el repositorio GitHub
 git remote add origin https://github.com/joseluisquisan/prueba.git
-
-- Para ver el estado de los Cambios
+### Para ver el estado de los Cambios
 git status
 
 - Para adicionar nuevos Camnios
