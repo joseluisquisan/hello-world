@@ -13,3 +13,4 @@
 - git push -u origin master : Empujar Cambios a la Nube GitHub
 - git pull origin master : Jalar Cambios a la Nube GitHub
 - git branch : Ver los Branch
+- git checkout
