@@ -1,4 +1,4 @@
-### Practice REPO (ORIGINAL NEWtwo)
+### Practice REPO (ORIGINAL)
 
 ##Apuntes de GIT
 
