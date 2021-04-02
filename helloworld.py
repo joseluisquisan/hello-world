@@ -3,16 +3,19 @@
 def run():
     menu = """
     Conversor de Monedas
-    1 - Cambiar monedas Chilenas
+    1 - Cambiar monedas Chilenas a Dolares
     2 - Cambiar monedas Argentinas
     """
     print(menu)
     opcion = input("Opcion Elegida: ")
-
     if opcion == 1:
-        print("Son Chilenos")
+        print("chile")
+        # pesos = input("¿Cuantos pesos Chilenos tienes?")
+        # dolar = 716
+        # cambio = pesos * dolar
+        # print("Tienes", cambio, "dolares")
     else:
-        print("son argentinos")
+        print("error")
 
 if __name__ == '__main__':
     run()
