@@ -7,13 +7,12 @@ def run():
     2 - Cambiar monedas Argentinas
     """
     print(menu)
-    opcion = input("Opcion Elegida: ")
+    opcion = int(input("Opcion Elegida: "))
     if opcion == 1:
-        print("chile")
-        # pesos = input("¿Cuantos pesos Chilenos tienes?")
-        # dolar = 716
-        # cambio = pesos * dolar
-        # print("Tienes", cambio, "dolares")
+        pesos = int(input("¿Cuantos pesos Chilenos tienes?: "))
+        dolar = 716
+        cambio = pesos / dolar
+        print("Tienes", cambio, "dolares")
     else:
         print("error")
 
