@@ -27,6 +27,7 @@ def run():
         conversor(pesos, dolar)
     else:
         print("===== Error, Favor elegir opcion correcta")
+        return run()
 
 if __name__ == '__main__':
     run()
