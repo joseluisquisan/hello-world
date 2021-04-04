@@ -1,4 +1,4 @@
-# Hello World! Practicas Random de Programacio
+# Hello World! Practicas Random de Programación
 
 ## Practice GIT
 #### Commandos Usados en GIT
