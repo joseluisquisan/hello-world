@@ -1,5 +1,6 @@
-# Practice REPO (ORIGINAL)
+# Hello World! Practicas Random de Programacio
 
+## Practice GIT
 #### Commandos Usados en GIT
 
 - git init : Para Iniciar GIT en el Directorio
