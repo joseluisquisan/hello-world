@@ -1,4 +1,6 @@
 myenviroment/*
 myvirtualenv/*
-jugandoconflask/venv/*
+devnet/jugandoconflask/venv/*
+devnet/testapi/venv/*
+testapi/venv/*
 .vscode/*
