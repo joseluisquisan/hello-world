@@ -1,4 +1,5 @@
 myenviroment/*
+venv/*
 myvirtualenv/*
 devnet/jugandoconflask/venv/*
 devnet/testapi/venv/*
